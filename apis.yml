@@ -39,7 +39,6 @@ apis:
   - name: Passwordinator
     description: "Generate random passwords of varying complexities"
     humanURL: https://github.com/fawazsullia/password-generator/
-    baseURL: https://github.com/fawazsullia/password-generator/
     tags:
       - Security
     properties:
